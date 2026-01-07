@@ -52,27 +52,27 @@ The app allows users to create, view, update, and delete notes with a clean, mod
 ### 1️⃣ Clone the repository
   
 #### bash
- git clone https://github.com/NitinBhadana05/notes-app.git
+- git clone https://github.com/NitinBhadana05/notes-app.git
  cd notes-app
 
 ### 2️⃣ Install dependencies
 
-  npm install
+ - npm install
   
 ### 3️⃣ Environment Variables
 
-  Create a file named .env.local in the project root:
+ - Create a file named .env.local in the project root:
 
 #### env
-  MONGODB_URI=your_mongodb_connection_string
+ - MONGODB_URI=your_mongodb_connection_string
 
 ### 4️⃣ Run the development server
 
 #### bash
-  npm run dev
+ - npm run dev
   
 #### Open browser: 
-  http://localhost:3000
+ - http://localhost:3000
 
 ## 🧪 API Endpoints
 ### Method |	Endpoint	    | Description
