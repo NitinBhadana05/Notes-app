@@ -29,21 +29,21 @@ The app allows users to create, view, update, and delete notes with a clean, mod
 
 ## 📁 Project Structure
 
-  notes-app
-  ├── app
-  │ ├── api
-  │ │     └── notes
-  │ │           ├── route.js
-  │ │           └── [id]/route.js
-  │ ├── page.js
-  │ └── globals.css
-  ├── lib
-  │     └── mongodb.js
-  ├── models
-  │     └── Note.js
-  ├── .env.local
-  ├── .gitignore
-  └──package.json
+-  notes-app
+-  ├── app
+-  │ ├── api
+-  │ │     └── notes
+-  │ │           ├── route.js
+-  │ │           └── [id]/route.js
+-  │ ├── page.js
+-  │ └── globals.css
+-  ├── lib
+-  │     └── mongodb.js
+-  ├── models
+-  │     └── Note.js
+-  ├── .env.local
+-  ├── .gitignore
+-  └──package.json
 
 ---
 
