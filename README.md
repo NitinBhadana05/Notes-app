@@ -82,38 +82,38 @@ The app allows users to create, view, update, and delete notes with a clean, mod
   DELETE | /api/notes/:id	| Delete a note
 
 ##📚 What I Learned
-Building a full-stack app using Next.js
+- Building a full-stack app using Next.js
 
-Creating REST APIs with App Router
+- Creating REST APIs with App Router
 
-Connecting MongoDB using Mongoose
+- Connecting MongoDB using Mongoose
 
-Performing CRUD operations
+- Performing CRUD operations
 
-Debugging real-world issues
+- Debugging real-world issues
 
-Using Tailwind CSS for modern UI
+- Using Tailwind CSS for modern UI
 
-Managing environment variables securely
+- Managing environment variables securely
 
-Using Git & GitHub professionally
+- Using Git & GitHub professionally
 
 ## 🚀 Future Improvements
 🔐 Authentication (login/signup)
 
-👤 User-based notes
+- 👤 User-based notes
 
-🔍 Search & filter notes
+- 🔍 Search & filter notes
 
-☁️ Deployment on Vercel
+- ☁️ Deployment on Vercel
 
-🔔 Toast notifications
+- 🔔 Toast notifications
 
 ## 👨‍💻 Author
 Your Name
 GitHub: https://github.com/NitinBhadana05
 
 ## ⭐ Acknowledgements
-This project was built as a learning exercise to understand modern full-stack development using Next.js and MongoDB.
+- This project was built as a learning exercise to understand modern full-stack development using Next.js and MongoDB.
 
 ---
